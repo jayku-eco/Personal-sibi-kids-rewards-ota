@@ -1,7 +1,7 @@
 {
   "schema": "sibi-ota/1",
-  "version": "dacef57-aa957ce7bf88",
-  "git": "dacef57",
+  "version": "3cc2e70-00584aa0d4fc",
+  "git": "3cc2e70",
   "files": [
     {
       "path": "game-config.js",
@@ -10,8 +10,8 @@
     },
     {
       "path": "game-life.html",
-      "sha256": "13c53ba7b523c343da208925f0f51586ad86d360170408a20542e5b72e51d6c5",
-      "size": 105152
+      "sha256": "a1fe996ac27ae0f087ec97449caf99d93724bcb791ab3227430be1c865a7ce39",
+      "size": 107591
     },
     {
       "path": "game-match3.html",
@@ -85,13 +85,13 @@
     },
     {
       "path": "life-link.js",
-      "sha256": "28f92dfc2ac978963e15f7c79b9334e72b5e04b82550ed58342b38fe3f39b136",
-      "size": 26318
+      "sha256": "bb6354e104c3d9f5f35fd42993a31ebb36c42f7d89ae40fa4b3bb02642a349d9",
+      "size": 27827
     },
     {
       "path": "life-mall.js",
-      "sha256": "e9ab12da8691517d5a46422767f0717aba5f2fc17cc1affe96563001e2e1310e",
-      "size": 16222
+      "sha256": "9438b126f6062300fb68d7f90bcc33a7d761843bf11243b019151d3a8843b237",
+      "size": 17621
     },
     {
       "path": "life-net.js",
@@ -169,5 +169,5 @@
       "size": 904154
     }
   ],
-  "mac": "958680573e68bc1c412d024b1615ad394d35f20bba4dd77b1a68db7a8b398ae4"
+  "mac": "98450b3f18577752fc0cdf0ee9feb74c42d8ae1177f508ab4035da45618230df"
 }
