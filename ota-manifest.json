@@ -1,6 +1,6 @@
 {
   "schema": "sibi-ota/1",
-  "version": "dacef57-3b477fe6673d",
+  "version": "dacef57-aa957ce7bf88",
   "git": "dacef57",
   "files": [
     {
@@ -60,8 +60,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "38baf5ba86c1b0e95f057acfcfa7f65e7a60515fa3518d4fb4ebac19df7f669b",
-      "size": 24013
+      "sha256": "8c570a749e93b4f722d001d95c9cf32d32a895a8fa708540442668a891a23690",
+      "size": 24009
     },
     {
       "path": "kids-rewards.html",
@@ -120,8 +120,8 @@
     },
     {
       "path": "ota.js",
-      "sha256": "b64542313ac6c9409b162fc5f03c2ac770e138d28a94d21c0a0359e870f5d99d",
-      "size": 10023
+      "sha256": "1edae61d98cd06dbd033018dc3ec23a7aa4fa85486961d0bd75f97e6fe2965c5",
+      "size": 9902
     },
     {
       "path": "scale-lock.js",
@@ -169,5 +169,5 @@
       "size": 904154
     }
   ],
-  "mac": "84588a4c65162dcbdaa9c476b3e3b8b28d01c6403c039670a965b7ec64a6b729"
+  "mac": "958680573e68bc1c412d024b1615ad394d35f20bba4dd77b1a68db7a8b398ae4"
 }
