@@ -1,6 +1,6 @@
 {
   "schema": "sibi-ota/1",
-  "version": "3cc2e70-00584aa0d4fc",
+  "version": "3cc2e70-3b8fbe9ee21a",
   "git": "3cc2e70",
   "files": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "path": "game-life.html",
-      "sha256": "a1fe996ac27ae0f087ec97449caf99d93724bcb791ab3227430be1c865a7ce39",
-      "size": 107591
+      "sha256": "373245e665e65c14de310c732cb95e2f9f3d0a3d6ec1379daa471adad7c9f505",
+      "size": 108672
     },
     {
       "path": "game-match3.html",
@@ -90,8 +90,8 @@
     },
     {
       "path": "life-mall.js",
-      "sha256": "9438b126f6062300fb68d7f90bcc33a7d761843bf11243b019151d3a8843b237",
-      "size": 17621
+      "sha256": "59f5ce077ecb49d2dc2d39a509e4218d695d64384d999d283e90c8db644ca725",
+      "size": 18207
     },
     {
       "path": "life-net.js",
@@ -169,5 +169,5 @@
       "size": 904154
     }
   ],
-  "mac": "98450b3f18577752fc0cdf0ee9feb74c42d8ae1177f508ab4035da45618230df"
+  "mac": "610a44b5cb1c7da3b84f647b3448e801dbd06ff79314c6cbd31dbcdd5acc8a38"
 }
