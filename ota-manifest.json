@@ -1,6 +1,6 @@
 {
   "schema": "sibi-ota/1",
-  "version": "dacef57-a907e104aa14",
+  "version": "dacef57-b1c3ac26532d",
   "git": "dacef57",
   "files": [
     {
@@ -60,8 +60,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "03f84f59a8e38457577b89fbf53e8a55682d1562ff649d1a508eb59efb60bc80",
-      "size": 23959
+      "sha256": "d88ba972286e88436f6a227f78438db359d24745f93582fd9520e2e27c639b2d",
+      "size": 24013
     },
     {
       "path": "kids-rewards.html",
@@ -75,8 +75,8 @@
     },
     {
       "path": "life-dice.js",
-      "sha256": "22b0e137d6440948a7d39fa94780af6806e07558a752084cf79b222f8947cb02",
-      "size": 28366
+      "sha256": "04c62b682359543d88f5bdaf6046441b7f3a8de140a10d43d6a178f6decf4587",
+      "size": 28371
     },
     {
       "path": "life-dressup.js",
@@ -164,5 +164,5 @@
       "size": 904154
     }
   ],
-  "mac": "90de7703ed01e3fc304d2e3181ef90ce98a92a3ad148e202e10394d6b7ff917d"
+  "mac": "1f9b0f4bfe9cab012379df9ca539fdb60a6073344446101027014bec3e058a8d"
 }
