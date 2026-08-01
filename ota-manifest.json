@@ -1,7 +1,7 @@
 {
   "schema": "sibi-ota/2",
-  "version": "5429b64-84a1069a3c4e",
-  "seq": 1785585906,
+  "version": "5429b64-b67f5e903376",
+  "seq": 1785500000,
   "git": "5429b64",
   "files": [
     {
@@ -126,8 +126,8 @@
     },
     {
       "path": "scale-lock.js",
-      "sha256": "218fdc1350f934fdb3db0a6c1d1ddd8bd7377ad6902df3182205dd052bd8424f",
-      "size": 5015
+      "sha256": "63471e57a7738e8a3e28cc8d9950717e13c3992e9b78b178a46a5cfb7d8d42dd",
+      "size": 5041
     },
     {
       "path": "sibi-earth.html",
@@ -170,5 +170,5 @@
       "size": 904154
     }
   ],
-  "mac": "ab3e6c1c7f458d2b7270772091428e0c456f1eda09669e17d2900ace54f94074"
+  "mac": "2760df25f7ee2f838b69459f45eebd3a3761fae773739cd187ea41de0b951589"
 }
