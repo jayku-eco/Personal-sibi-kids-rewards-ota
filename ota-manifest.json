@@ -1,0 +1,168 @@
+{
+  "schema": "sibi-ota/1",
+  "version": "dacef57-a907e104aa14",
+  "git": "dacef57",
+  "files": [
+    {
+      "path": "game-config.js",
+      "sha256": "cfdd1f0a0bc4a0e05f6ff68d02529c885d32e109a5a9d4f33507d1e09f6a8c28",
+      "size": 34130
+    },
+    {
+      "path": "game-life.html",
+      "sha256": "1b20fafb9dac7437a304388a151b122a31076bf8aa119751663cfce0688a9957",
+      "size": 105523
+    },
+    {
+      "path": "game-match3.html",
+      "sha256": "c29d3a938ad5ee82a38a2f8269a06dd1709db89fd5c291968dccf3aae7cdf799",
+      "size": 51015
+    },
+    {
+      "path": "game-maze.html",
+      "sha256": "d293621fc496e82f8b605a44ff1f3a27e44d6bbc8ab884e754ee6712e2687031",
+      "size": 26984
+    },
+    {
+      "path": "game-mul-tetris.html",
+      "sha256": "48dad66a6ce085253b9f41f59cd2c777959bb8180c72193d345fcea4fce990f4",
+      "size": 35078
+    },
+    {
+      "path": "game-numbers.html",
+      "sha256": "207d344199b1dca12585c00a6c0b974b5f4be49faba6d27df871052e44fec845",
+      "size": 54251
+    },
+    {
+      "path": "game-spell.html",
+      "sha256": "2415739f898f6856288b4a58207309414614c563c207fe98b7be7fbf99759229",
+      "size": 64969
+    },
+    {
+      "path": "game-sub-shooter.html",
+      "sha256": "9a065c0e16d7c6280ed75d1221ac1743078beb6a28310f90d55b36c4a44a8030",
+      "size": 31081
+    },
+    {
+      "path": "game-tw-puzzle.html",
+      "sha256": "1dafaaff095e2ff3326e87f5fde80365660f6751e8373c62d3d63c8eda427998",
+      "size": 27404
+    },
+    {
+      "path": "icon-192.png",
+      "sha256": "0d1b9007d6d17deb6ed489297deb6e7ca8ddb77c742e20f237eee900f2d21f37",
+      "size": 5539
+    },
+    {
+      "path": "icon-512.png",
+      "sha256": "c92629f74a89b48d63e220a1a9e530dde94e40259f1d72fd5f4f511e27fac289",
+      "size": 18784
+    },
+    {
+      "path": "index.html",
+      "sha256": "03f84f59a8e38457577b89fbf53e8a55682d1562ff649d1a508eb59efb60bc80",
+      "size": 23959
+    },
+    {
+      "path": "kids-rewards.html",
+      "sha256": "96f9cbfeecf301ce40246b2e1279d2a7406d61c6056c078e048c479d0bd5a475",
+      "size": 117490
+    },
+    {
+      "path": "life-avatar.js",
+      "sha256": "5dd875fea9aa339e8ae828ff9414503768efded16490616d68010258fe4503f2",
+      "size": 45741
+    },
+    {
+      "path": "life-dice.js",
+      "sha256": "22b0e137d6440948a7d39fa94780af6806e07558a752084cf79b222f8947cb02",
+      "size": 28366
+    },
+    {
+      "path": "life-dressup.js",
+      "sha256": "4a83b9bfce16a06dd6bd1a739f938e6e4f6c2f73f04bfbd2b28053006c420e03",
+      "size": 20877
+    },
+    {
+      "path": "life-mall.js",
+      "sha256": "e9ab12da8691517d5a46422767f0717aba5f2fc17cc1affe96563001e2e1310e",
+      "size": 16222
+    },
+    {
+      "path": "life-net.js",
+      "sha256": "f287fede1ed0d98e92d62306156940ab639fe9d748e3bea62e1fdd2a178dfa35",
+      "size": 22586
+    },
+    {
+      "path": "life-store.js",
+      "sha256": "54952a5db6d3a524c72f1faeebcda9267591fd84c83ec03607c878d5a45ba3a0",
+      "size": 18009
+    },
+    {
+      "path": "link.js",
+      "sha256": "c200e507931d10daae3c63aa830a8a64dadcff7fbcee9105ef9ff5f3b443f5ea",
+      "size": 4998
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "bcad18c32b579d235972e41a452f5c57069a0d561351e725f1b66b4d5c386c42",
+      "size": 470
+    },
+    {
+      "path": "mul-tetris-core.js",
+      "sha256": "df840296b0bea7aabdf27fa45c975b2031f3af36d7b7ac63e2553a0a4d8681ac",
+      "size": 14758
+    },
+    {
+      "path": "ota.js",
+      "sha256": "e1d8380d4e9c123958171a2bdf3fdbfa8098ab4acc32a48d8db9a011fd66f97a",
+      "size": 8768
+    },
+    {
+      "path": "scale-lock.js",
+      "sha256": "218fdc1350f934fdb3db0a6c1d1ddd8bd7377ad6902df3182205dd052bd8424f",
+      "size": 5015
+    },
+    {
+      "path": "sibi-earth.html",
+      "sha256": "9014275aee92bb63007523ea5b04e06ecfb4d64c8d1a7128a1b1ca3cfc773329",
+      "size": 82537
+    },
+    {
+      "path": "speak.js",
+      "sha256": "bb3ca1f5c383d802dbc66b801fefc6276b2a900f9f627d58a8e8f5a8cafd1342",
+      "size": 4773
+    },
+    {
+      "path": "tw-map-data.js",
+      "sha256": "f65cd9bbb19808ae0c62698c39084bd2618fc8cf5e1d73379b27020cc6caf4fc",
+      "size": 23487
+    },
+    {
+      "path": "vendor/countries.geojson",
+      "sha256": "db45f19c82fdf66f9f95cf35fdaa9299d431173266ff66dc2f640f26401ff904",
+      "size": 272781
+    },
+    {
+      "path": "vendor/country-facts.json",
+      "sha256": "65efbe66a4025017b66d3cdbd20212d50d0aa58b66d9c5b482feca3a043a10be",
+      "size": 30831
+    },
+    {
+      "path": "vendor/earth-blue-marble.jpg",
+      "sha256": "228deba2e4b600146bdcb6cfa359b8ead6aacc2b1c13550a29cd82824cfa1c01",
+      "size": 1461877
+    },
+    {
+      "path": "vendor/globe.gl.min.js",
+      "sha256": "7e5cebcec90fb7cf8fa95cd0e3105db7531c90a39d0800787cf048d8d0500014",
+      "size": 992755
+    },
+    {
+      "path": "vendor/night-sky.png",
+      "sha256": "7e1d5e780301e3a33bd79fd3ac414f7a742465f33ae4605abca743d43a3ab983",
+      "size": 904154
+    }
+  ],
+  "mac": "90de7703ed01e3fc304d2e3181ef90ce98a92a3ad148e202e10394d6b7ff917d"
+}
